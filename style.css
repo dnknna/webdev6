@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.family {
+    background-image: url(./familyy.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-family:'Times New Roman';
+    background-attachment: fixed;
+    line-height: normal;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.title {
+    font-size: 45px;
+    text-align: center;
+    border: none;
+    color: #FFFFFF;
+}
+
+.fam {
+    font-size: 25px;
+    text-align: center;
+    color:#FFFFFF;
+    text-transform:uppercase;
+}
+
+.fami{
+    font-size: 25px;
+    color: #FFFFFF;
+    background-color: #BC6F65;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline;
+}
+ 
+.famil{
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+    font-weight: 100;
+}
+.famill{
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    color:#FFFFFF;
+    text-decoration: line-through;
+}
